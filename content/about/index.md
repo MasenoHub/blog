@@ -13,7 +13,7 @@ The Maseno Hub was originally set up to nurture interest and skill in computing 
 
 #### Who Are We? 
 
-The Maseno Hub is a non-discriminational society whose purpose is to bring like-minded individuals together. Among our ranks are members from vastly different walks of life and skill sets. We extend a hearty welcome to anyone, regardless of their chosen career path; from artists to businesspeople to musicians to programmers.
+The Maseno Hub is a non-discriminational society whose purpose is to bring like-minded individuals together. Among our ranks are members from vastly different walks of life and posessing different skill sets. We extend a hearty welcome to anyone, regardless of their chosen career path; from artists to businesspeople to musicians to programmers.
 
 #### What Do We Do?
 
